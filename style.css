@@ -1,0 +1,22 @@
+title
+{
+    text-align: justify;
+    background: linear-gradient(to bottom, #b6c5ee, #67ace1, #3b86f6);
+    color: #2865c2;
+    font-size: 30pt;
+    font-family: Arial;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+h1
+{
+    font-family: Arial;
+    color: #d81818;
+}
+
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000
+}
